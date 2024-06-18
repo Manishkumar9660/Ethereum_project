@@ -76,7 +76,7 @@ Contributors:
 
 - Manish Kumar  
   - GitHub: [Manishkumar9660](https://github.com/Manishkumar9660)
-  - LinkedIn: [@Manish Kumar](www.linkedin.com/in/manish-kumar-872676285)
+  - LinkedIn:[Manish Kumar](https://www.linkedin.com/in/manish-kumar-872676285/)
 
 ## License
 
